@@ -7,7 +7,7 @@ public void thisIsANewMethod() {
  int x = 0;
 <<<<<<< HEAD
  double y = b + x;
- double y = 0.0;
+ double y = 7.0;
  String test = "test";
  y++;
 =======
