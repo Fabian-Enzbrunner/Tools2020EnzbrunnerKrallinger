@@ -9,6 +9,7 @@ public void thisIsANewMethod() {
  double y = b + x;
  double y = 0.0;
  String test = "test";
+ y++;
 =======
  //string b = "Hallo";
 >>>>>>> a3d21fc087bd426eeafc5ebb654697d2294ffc2a
