@@ -6,9 +6,11 @@ public void thisIsANewMethod() {
 =======
  int x = 0;
 <<<<<<< HEAD
- double y = b + x;
  double y = 7.0;
+ double y = b + x;
  String test = "test";
+ float x = 4.32;
+ x++;
  y++;
 =======
  //string b = "Hallo";
